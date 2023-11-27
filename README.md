@@ -7,7 +7,7 @@ Explanation of how to use the code:
 
 2. Login:
    - The user is prompted to log in with a username and password.
-   - The default employee account is, "sosten,"  with the password "62sos35ten."Another employee account is,  "admin" with the password "1234". Another employee account
+   - The default employee account is, "sosten"  with the password "62sos35ten" Another employee account is,  "admin" with the password "1234". Another employee account
    - The `_getch` function is used for password input to enhance security by not displaying the password on the screen.
 
 3. Menu:
